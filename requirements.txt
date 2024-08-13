@@ -1,0 +1,5 @@
+pandas 
+statsmodels 
+fpdf 
+xlsxwriter 
+openpyxl
