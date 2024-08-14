@@ -3,3 +3,5 @@ statsmodels
 fpdf 
 xlsxwriter 
 openpyxl
+scikit_posthocs
+io
